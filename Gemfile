@@ -5,6 +5,9 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 # Faker gem
 gem 'faker', '1.4.2'
+# will_paginate gem
+gem 'will_paginate', '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Bootstrap sass gem
 gem 'bootstrap-sass', '3.2.0.0'
 # Use SCSS for stylesheets
